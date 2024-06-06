@@ -10,7 +10,7 @@ for (let i = 1; i <= 100; i++) {
         let fizz = ("Fizz");
         console.log(fizz);
     } else (i % 5 == 0) {
-        let buzz = ("Buzz")
+        let buzz = ("Buzz");
         console.log(buzz);
     }
 }
